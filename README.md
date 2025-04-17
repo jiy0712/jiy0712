@@ -38,5 +38,14 @@
     <br>
     <br>
     <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiy0712&layout=compact&theme=nord&hide_border=true" /></a> 
+    <br>
+    <br>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiy0712&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/jiy0712"
+      width="600"
+      height="300"
+    />
+</a>
   </p>
 </div>
