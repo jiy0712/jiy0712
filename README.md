@@ -7,7 +7,7 @@
   <br>
   <br>
     <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+    <a href="https://lapis-baroness-d53.notion.site/About-Jiyoung-Park-1dd8d338d42180009efae8b535dd6b60?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
     <a href="https://jiy-0712-programming.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white%22%20alt=%22Tistory"/></a>
   <br>
   <br>
