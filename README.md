@@ -1,6 +1,5 @@
 <div style="margin: 0 auto; text-align: center;" align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=350&color=FE9A2E&text=Hello%20I%27m%20jiyoung&fontSize=65&reversal=false" alt="header" />
   <br>
   <br>
   <strong>SNS🧡</strong>
